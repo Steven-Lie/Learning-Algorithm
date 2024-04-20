@@ -9,3 +9,4 @@
 * Counting Sort : O(N + M)  
   *M as range of data value*
 * Merge Sort : O(N log N)
+* Quick Sort : O(N log N) but in worst case can be O(N<sup>2</sup>)
